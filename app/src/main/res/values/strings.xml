@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">又见</string>
+    <string name="title_home">课程</string>
+    <string name="title_record">记录</string>
+    <string name="title_mine">我的</string>
+
+    <string name="title_course">全部课程</string>
+    <string name="nickname">xuyonghua</string>
+
+    <string name="text_eg1">已练习\n48min</string>
+
+</resources>
